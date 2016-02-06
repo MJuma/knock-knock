@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "John Doe",
+      "wifiMAC": "00:22:33:44:55:66",
+      "blMAC": "00:22:33:44:55:66",
+      "homeImage": "john-home.png",
+      "awayImage": "john-away.png"
+    },
+    {
+      "name": "Jane Doe",
+      "wifiMAC": "00:22:33:44:55:66",
+      "blMAC": "00:22:33:44:55:66",
+      "homeImage": "jane-home.png",
+      "awayImage": "jane-away.png"
+    }
+  ]
+}
